@@ -1,2 +1,8 @@
 {
+    "name": "dexterkee/test",
+    "type": "project",
+    "description": "Dex test site",
+    "keywords": [
+    ],
+    "license": "MIT"
 }
